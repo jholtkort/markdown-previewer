@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CACnB,iCACF,CAEA,GACE,yBACF,CAEA,QACE,kBACF","file":"main.9da175d4.chunk.css","sourcesContent":["body {\n  background: #add8e6;\n  font-family: \"Ramabhadra\", sans-serif;\n}\n\nh1 {\n  font-family: \"Montaga\", serif;\n}\n\n.output {\n  background: #d3d3d3;\n}\n"]}
